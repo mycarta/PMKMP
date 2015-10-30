@@ -1,7 +1,7 @@
 PMKMP
 =====
 
-Matlab function to create perceptual colormaps, [as submitted on the Matlab File Exchange]. (http://www.mathworks.com/matlabcentral/fileexchange/28982-perceptually-improved-colormaps)
+Matlab function to create perceptual colormaps, [as submitted on the Matlab File Exchange] (http://www.mathworks.com/matlabcentral/fileexchange/28982-perceptually-improved-colormaps).
 
 Function and supporting files and images licensed under the terms of [BSD] (https://opensource.org/licenses/BSD-2-Clause) license. 
 
