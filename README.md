@@ -7,8 +7,11 @@ Function and supporting files and images licensed under the terms of [BSD] (http
 
 
 >function map=pmkmp(n,scheme)
+
 >PMKMP Returns perceptually balanced colormaps with rainbow-like colors
->PMKMP(N,SCHEME) returns an Nx3 colormap. 
+
+>PMKMP(N,SCHEME) returns an Nx3 colormap.
+
 >usage: map=pmkmp(n,scheme);
 
  JUSTIFICATION: rainbow, or spectrum color schemes are considered a poor
