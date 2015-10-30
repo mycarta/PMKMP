@@ -3,6 +3,8 @@ PMKMP
 
 Matlab function to create perceptual colormaps
 
+Function and supporting files and images licensed under the terms of [BSD] (https://opensource.org/licenses/BSD-2-Clause) license. 
+
 
 function map=pmkmp(n,scheme)
  PMKMP Returns perceptually balanced colormaps with rainbow-like colors
