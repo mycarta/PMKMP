@@ -6,10 +6,10 @@ Matlab function to create perceptual colormaps, [as submitted on the Matlab File
 Function and supporting files and images licensed under the terms of [BSD] (https://opensource.org/licenses/BSD-2-Clause) license. 
 
 
-   function map=pmkmp(n,scheme)
-   PMKMP Returns perceptually balanced colormaps with rainbow-like colors
-   PMKMP(N,SCHEME) returns an Nx3 colormap. 
-   usage: map=pmkmp(n,scheme);
+>function map=pmkmp(n,scheme)
+>PMKMP Returns perceptually balanced colormaps with rainbow-like colors
+>PMKMP(N,SCHEME) returns an Nx3 colormap. 
+>usage: map=pmkmp(n,scheme);
 
  JUSTIFICATION: rainbow, or spectrum color schemes are considered a poor
  choice for scientific data display by many in the scientific community
